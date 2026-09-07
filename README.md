@@ -425,12 +425,11 @@ Through this project, we learned how to work with:
 
 ## 👥 Team
 
-| Role                | Member        |
-| ------------------- | ------------- |
-| 👨‍💻 Team Member 1 | `Your Name`   |
-| 👨‍💻 Team Member 2 | `Member Name` |
-| 👨‍💻 Team Member 3 | `Member Name` |
-| 👨‍💻 Team Member 4 | `Member Name` |
+| Role                | Member               |
+| ------------------- | -------------------- |
+| 👨‍💻 Team Member 1 | Mahendra M N           |
+| 👨‍💻 Team Member 2 | Manoj L                |
+| 👨‍💻 Team Member 3 | Ramappa Kumar Chougala |
 
 ---
 
